@@ -1,1 +1,1 @@
-# multimodel-nowcasting
+# multimodal-nowcasting
